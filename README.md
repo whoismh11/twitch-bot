@@ -1,7 +1,7 @@
 # Twitch Bot
-GAMEGG [Twitch](https://www.twitch.tv) Robot.
+GAMEGG [Twitch](https://www.twitch.tv) robot.
 
-### How to use
+## How to use
 1. First, download and install the [Node.js](https://nodejs.org/en/).
 2. Go to the bot folder and open the `bot.js` file with notepad and enter your desired details instead of the three parts `BOT_USERNAME`, `OAUTH_TOKEN` and `CHANNEL_NAME` and save the changes.
 - `BOT_USERNAME`: Username of the bot account (you can introduce your account and the bot will send a message on your behalf or create a new account for your bot).
@@ -12,3 +12,6 @@ GAMEGG [Twitch](https://www.twitch.tv) Robot.
 5. If the message `connected` is displayed, your bot is successfully online and usable.
 
 - To add, delete or edit bot commands, go to the `// Called every time a message comes in` section in the `bot.js` file and apply the commands you want.
+
+## Contribution
+- [Discord](https://discord.gg/2JjvhAk)
