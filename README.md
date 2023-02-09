@@ -3,7 +3,7 @@ GAMEGG [Twitch](https://www.twitch.tv) robot (simple).
 
 ## How to use
 1. First, download and install the [Node.js](https://nodejs.org/en/).
-2. Go to the bot folder and open the `bot.js` file with notepad and enter your desired details instead of the three parts `BOT_USERNAME`, `OAUTH_TOKEN` and `CHANNEL_NAME` and save the changes.
+2. Go to the bot folder and open the `bot.js` file with Notepad and enter your desired details instead of the three parts `BOT_USERNAME`, `OAUTH_TOKEN` and `CHANNEL_NAME` and save the changes.
 - `BOT_USERNAME`: Username of the bot account (you can introduce your account and the bot will send a message on your behalf or create a new account for your bot).
 - `OAUTH_TOKEN`: You must get and enter this token from [this link](https://twitchapps.com/tmi/).
 - `CHANNEL_NAME`: You must enter your channel name instead (for example `gamegg_ir`).
