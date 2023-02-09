@@ -1,5 +1,5 @@
 # Twitch Bot
-GAMEGG [Twitch](https://www.twitch.tv) robot.
+GAMEGG [Twitch](https://www.twitch.tv) robot (simple).
 
 ## How to use
 1. First, download and install the [Node.js](https://nodejs.org/en/).
